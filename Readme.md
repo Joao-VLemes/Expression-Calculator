@@ -22,4 +22,4 @@ Application inside: **\bin\Debug\net6.0**
 4. use "," not "."
 
 ## Demonstration
-![](https://github.com/ExpressionCalc/RMgif.gif)
+![](https://github.com/Joao-VLemes/ExpressionCalc/blob/master/RMgif.gif)
